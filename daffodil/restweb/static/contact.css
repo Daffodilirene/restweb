@@ -1,0 +1,40 @@
+body{
+    margin:0;
+    background:url("contact.jpg");
+    background-size:cover;
+    color:white;
+    font-family:Arial;
+}
+
+.navbar{
+    background:#eef3ff;
+    padding:10px;
+    text-align:right;
+}
+.navbar a{
+    margin:10px;
+    text-decoration:none;
+    color:purple;
+    font-weight:bold;
+}
+h1{
+    color:white;
+    font-size:70px;
+    margin:40px;
+    align-content:center;
+}
+
+.contact-box{
+    margin-left:40px;
+    font-size:10px;
+    color: rgb(248, 240, 255);
+    align-content: center;
+}
+.footer{
+    background:#f0eded;
+    margin-top: 250px;
+    padding:.5px;
+    text-align:center;
+    color:black;
+}
+
